@@ -88,7 +88,7 @@
 (when (modulep! +journal)
   (package! org-journal :pin "18df4d5ae5e15580df42562c143d007c6d28d75f"))
 (when (modulep! +noter)
-  (package! org-noter :pin "f9710c976823c180070cee4e958e0dc4531ba0de"))
+  (package! org-noter :pin "9ead81d42dd4dd5074782d239b2efddf9b8b7b3d"))
 (when (modulep! +pomodoro)
   (package! org-pomodoro :pin "3f5bcfb80d61556d35fc29e5ddb09750df962cc6"))
 (when (modulep! +pretty)
