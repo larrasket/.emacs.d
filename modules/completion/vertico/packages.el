@@ -2,9 +2,9 @@
 ;;; completion/vertico/packages.el
 
 (package! vertico
-  :recipe (:host github :repo "minad/vertico"
+  :recipe (:host github :repo "luggages/vertico"
            :files ("*.el" "extensions/*.el"))
-  :pin "5780fac84f67c19cd6906077ecd636bac3c0c7ad")
+  :pin "f64aef3d478e149df9c95674639cf9afa2e12eb7")
 
 (package! orderless :pin "e6784026717a8a6a7dcd0bf31fd3414f148c542e")
 
